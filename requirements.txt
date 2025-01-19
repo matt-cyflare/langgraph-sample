@@ -1,0 +1,8 @@
+langgraph>=0.0.25
+langsmith>=0.1.2
+langchain-anthropic>=0.1.1
+typing-extensions>=4.9.0
+python-dotenv
+uuid
+langchain-core>=0.1.27
+langchain-community>=0.0.24
